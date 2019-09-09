@@ -1,0 +1,20 @@
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.exe.config
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.exe
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.pdb
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.csprojResolveAssemblyReference.cache
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.Form1.resources
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.exe
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.pdb
+c:\users\henok g\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.Home.resources
+D:\BackUp\MyChat\MyChat\bin\Debug\MyChat.exe.config
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.exe
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.pdb
+D:\BackUp\MyChat\MyChat\bin\Debug\MyChat.exe
+D:\BackUp\MyChat\MyChat\bin\Debug\MyChat.pdb
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.csprojResolveAssemblyReference.cache
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.Form1.resources
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.Home.resources
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+D:\BackUp\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
